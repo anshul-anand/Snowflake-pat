@@ -1,4 +1,4 @@
-name: Query Snowflake using Username and Password
+name: Query Snowflake using PAT
 
 on:
   workflow_dispatch:
